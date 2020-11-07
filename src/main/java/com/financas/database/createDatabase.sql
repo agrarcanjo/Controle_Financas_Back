@@ -11,7 +11,7 @@ COMMENT ON DATABASE postgres
   IS 'default administrative connection database';
 
 
--- DROP DATABASE minhasfinancas;
+-- DROP DATABASE financas;
 
 CREATE SCHEMA financas;
 

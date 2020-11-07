@@ -8,7 +8,9 @@
 
 <h2>  Sobre o projeto </h2>
 
+![](gif-review.gif)
 Back-end de um pequeno projeto em springboot para uma página web que faz o cadastro e controle de lançamentos de finanças. Cadastro de gastos e controle. Feito em Java com testes unitários e micro-serviços 
+
 <h2>  Tecnologias </h2>
 
 - **Backend**
@@ -20,5 +22,11 @@ Back-end de um pequeno projeto em springboot para uma página web que faz o cada
 
 Já com seu repositório clonado 
 
-**TODO**
+Configure um banco de dados postgre com as configurações referentes a application.properties.
+
+e faça o deploy de acordo com o padrão spring.
+
+
+
+
 
